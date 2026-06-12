@@ -8,7 +8,7 @@ Software developer based in Calgary, Alberta, with experience across application
 
 My work combines earlier IT and reporting experience with modern software development using AWS, .NET, Java/Spring Boot, React/Next.js, React Native, Python, PHP, SQL, and cloud-based tooling. I focus on practical projects that connect business workflows, data, backend systems, mobile applications, and user-facing web applications.
 
-This profile highlights selected full stack, cloud, data, mobile, and coursework projects, including individual builds and team projects where I contributed.
+This profile highlights selected full stack, cloud, data, mobile, and coursework projects, including individual builds and team projects where I contributed. It focuses on recent project work rather than my full prior IT, application support, reporting, and systems experience.
 
 ## Featured Projects
 
