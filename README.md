@@ -42,5 +42,5 @@ Some team project repositories are owned by teammates or course collaborators. T
 |---|---|---|---|
 | PeerConnect | React Native, Expo, Supabase | Mobile app, team development, authentication, data persistence | [Repo](https://github.com/glconde/peerconnect) |
 | Village Rental App | C#, MySQL, MAUI Blazor | a rental management system designed to streamline the process of managing rental equipment, customers, and rental transactions. | [Repo](https://github.com/davidpal3c/villageRMS) |
-| Weather App | JavaScript, Next.js, Firebase Auth, Firestore | Team project to who the weather data showcasing api data ingestion, basic Auth, cloud i/o. | [Repo](https://github.com/sgarcia97/weather-app) |
+| Weather App | JavaScript, Next.js, Firebase Auth, Firestore | Team project that displays weather data from an external API, with basic authentication and cloud data storage using Firebase. | [Repo](https://github.com/sgarcia97/weather-app) |
 | Parking Lot Detection App | Python, DETR (PyTorch and torchvision), FastAPI, Tkinter | This is a complete end-to-end project that demonstrates using AI (DETR object detection) to analyze parking lot images, count parked vehicles, estimate free slots, and serve results via an API and a simple GUI | [Repo](https://github.com/ChrisFindl/parking-app) |
