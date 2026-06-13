@@ -8,7 +8,7 @@ Software developer based in Calgary, Alberta, with experience across application
 
 My work combines earlier IT and reporting experience with modern software development using AWS, .NET, Java/Spring Boot, React/Next.js, React Native, Python, PHP, SQL, and cloud-based tooling. I focus on practical projects that connect business workflows, data, backend systems, mobile applications, and user-facing web applications.
 
-This profile highlights selected full stack, cloud, data, mobile, and coursework projects, including individual builds and team projects where I contributed. It focuses on recent project work rather than my full prior IT, application support, reporting, and systems experience.
+This profile highlights selected full stack, cloud, data, mobile, and coursework projects, including individual builds and team projects where I contributed. It focuses on recent project work *rather than my full prior IT*, application support, reporting, and systems experience.
 
 ## Featured Projects
 
@@ -16,7 +16,7 @@ This profile highlights selected full stack, cloud, data, mobile, and coursework
 |---|---|---|---|
 | Smart Video Monitoring | AWS, React, Lambda, OpenSearch, Rekognition | Cloud architecture, serverless, searchable video metadata | [Repo](https://github.com/glconde/smart-video-monitoring) |
 | Job App Tracker | .NET Core, Angular | Full stack CRUD, frontend/backend separation, migration practice | [Repo](https://github.com/glconde/job-app-tracker) |
-| Movie App | Spring Boot, Next.js, MySQL, AWS | Team project, backend work, deployment(CI/CD) exposure | [Repo](https://github.com/glconde/intp-p2) |
+| Monoerepo Full Stack App and Deployment | Spring Boot, Next.js, MySQL, AWS | Team project, backend work, deployment(CI/CD) exposure | [Repo](https://github.com/glconde/intp-p2) |
 | ETL / BI Project | Python, pandas, SQL, Power BI, DAX, PostgreSQL | Data cleanup, transformation, reporting mindset | [Repo](https://github.com/glconde/etl-bi) |
 | WordPress Plugin Dev | PHP, MySQL, Docker | PHP maintenance, plugin development, local dev setup | [Repo](https://github.com/glconde/wordpress-plugin-dev) |
 
