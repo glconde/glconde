@@ -16,7 +16,7 @@ This profile highlights selected full stack, cloud, data, mobile, and coursework
 |---|---|---|---|
 | Smart Video Monitoring | AWS, React, Lambda, OpenSearch, Rekognition | Cloud architecture, serverless, searchable video metadata | [Repo](https://github.com/glconde/smart-video-monitoring) |
 | Job App Tracker | .NET Core, Angular | Full stack CRUD, frontend/backend separation, migration practice | [Repo](https://github.com/glconde/job-app-tracker) |
-| Monoerepo Full Stack App and Deployment | Spring Boot, Next.js, MySQL, AWS | Team project, backend work, deployment(CI/CD) exposure | [Repo](https://github.com/glconde/intp-p2) |
+| Monorepo Full Stack App and Deployment | Spring Boot, Next.js, MySQL, AWS | Team project, backend work, deployment(CI/CD) exposure | [Repo](https://github.com/glconde/intp-p2) |
 | ETL / BI Project | Python, pandas, SQL, Power BI, DAX, PostgreSQL | Data cleanup, transformation, reporting mindset | [Repo](https://github.com/glconde/etl-bi) |
 | WordPress Plugin Dev | PHP, MySQL, Docker | PHP maintenance, plugin development, local dev setup | [Repo](https://github.com/glconde/wordpress-plugin-dev) |
 
