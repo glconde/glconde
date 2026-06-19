@@ -8,7 +8,7 @@ Software developer based in Calgary, Alberta, with experience across application
 
 My work combines earlier IT and reporting experience with modern software development using AWS, .NET, Java/Spring Boot, React/Next.js, React Native, Python, PHP, SQL, and cloud-based tooling. I focus on practical projects that connect business workflows, data, backend systems, mobile applications, and user-facing web applications.
 
-This profile highlights selected full stack, cloud, data, mobile, and coursework projects, including individual builds and team projects where I contributed. It focuses on recent project work *rather than my full prior IT*, application support, reporting, and systems experience.
+This profile highlights selected full stack, cloud, data, mobile, and coursework projects, including individual builds and team projects where I contributed. It focuses on recent project work *rather than my full prior IT, application support, reporting, and systems experience*.
 
 ## Featured Projects
 
@@ -37,10 +37,11 @@ This profile highlights selected full stack, cloud, data, mobile, and coursework
 | OS Container Project | MySQL, Docker, PHP | a PHP/MySQL-based Contacts application with Docker, extending functionality across database management, RESTful API endpoints, filesystem operations, and container security | [Repo]( https://github.com/glconde/contacts-app) |
 
 ## Team Projects
-Some team project repositories are owned by teammates or course collaborators. The descriptions below summarize the project context and my participation.
+*Some team project repositories are owned by teammates or course collaborators.* The descriptions below summarize the project context and my participation.
 | Project | Stack | What it shows | Link |
 |---|---|---|---|
 | PeerConnect | React Native, Expo, Supabase | Mobile app, team development, authentication, data persistence | [Repo](https://github.com/chrisracicot/peerconnect) |
 | Village Rental App | C#, MySQL, MAUI Blazor | a rental management system designed to streamline the process of managing rental equipment, customers, and rental transactions. | [Repo](https://github.com/davidpal3c/villageRMS) |
-| Weather App | JavaScript, Next.js, Firebase Auth, Firestore | Team project that displays weather data from an external API, with basic authentication and cloud data storage using Firebase. | [Repo](https://github.com/sgarcia97/weather-app) |
+| Weather App | JavaScript, Next.js, Firebase Auth, Firestore | Web Team project that displays weather data from an external API, with basic authentication and cloud data storage using Firebase. | [Repo](https://github.com/sgarcia97/weather-app) |
+| Climapp (React Native) | React Native, Supabase Auth, PostgreSQL, TypeScript | Team-built mobile weather app with Supabase authentication and cloud data storage. Users can drop a pin on the map to view weather data for the nearest city using an external weather API. | [Repo](https://github.com/sgarcia97/climapp) |
 | Parking Lot Detection App | Python, DETR (PyTorch and torchvision), FastAPI, Tkinter | This is a complete end-to-end project that demonstrates using AI (DETR object detection) to analyze parking lot images, count parked vehicles, estimate free slots, and serve results via an API and a simple GUI | [Repo](https://github.com/ChrisFindl/parking-app) |
