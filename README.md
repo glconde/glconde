@@ -4,6 +4,12 @@
 
 Software Developer | Application Support | SQL / Cloud / Full Stack / React Native
 
+Software developer based in Calgary, Alberta, with experience across application support, SQL reporting, full stack development, mobile development, and operational systems.
+
+My work combines earlier IT and reporting experience with modern software development using AWS, .NET, Java/Spring Boot, React/Next.js, React Native, Python, PHP, SQL, and cloud-based tooling. I focus on practical projects that connect business workflows, data, backend systems, mobile applications, and user-facing web applications.
+
+This profile highlights selected full stack, cloud, data, mobile, and coursework projects, including individual builds and team projects where I contributed. It focuses on recent project work *rather than my full prior IT, application support, reporting, and systems experience*.
+
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-informational)
 ![.NET](https://img.shields.io/badge/.NET-Core-informational)
 ![Java](https://img.shields.io/badge/Java-Spring_Boot-informational)
@@ -11,12 +17,6 @@ Software Developer | Application Support | SQL / Cloud / Full Stack / React Nati
 ![React Native](https://img.shields.io/badge/React_Native-Expo-informational)
 ![Python](https://img.shields.io/badge/Python-Data%20%26%20ETL-informational)
 ![SQL](https://img.shields.io/badge/SQL-Reporting%20%26%20Data-informational)
-
-Software developer based in Calgary, Alberta, with experience across application support, SQL reporting, full stack development, mobile development, and operational systems.
-
-My work combines earlier IT and reporting experience with modern software development using AWS, .NET, Java/Spring Boot, React/Next.js, React Native, Python, PHP, SQL, and cloud-based tooling. I focus on practical projects that connect business workflows, data, backend systems, mobile applications, and user-facing web applications.
-
-This profile highlights selected full stack, cloud, data, mobile, and coursework projects, including individual builds and team projects where I contributed. It focuses on recent project work *rather than my full prior IT, application support, reporting, and systems experience*.
 
 ## Featured Projects
 
