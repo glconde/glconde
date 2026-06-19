@@ -53,3 +53,9 @@ This profile highlights selected full stack, cloud, data, mobile, and coursework
 | Weather App | JavaScript, Next.js, Firebase Auth, Firestore | Web Team project that displays weather data from an external API, with basic authentication and cloud data storage using Firebase. | [Repo](https://github.com/sgarcia97/weather-app) |
 | Climapp (React Native) | React Native, Supabase Auth, PostgreSQL, TypeScript | Team-built mobile weather app with Supabase authentication and cloud data storage. Users can drop a pin on the map to view weather data for the nearest city using an external weather API. | [Repo](https://github.com/sgarcia97/climapp) |
 | Parking Lot Detection App | Python, DETR (PyTorch and torchvision), FastAPI, Tkinter | This is a complete end-to-end project that demonstrates using AI (DETR object detection) to analyze parking lot images, count parked vehicles, estimate free slots, and serve results via an API and a simple GUI | [Repo](https://github.com/ChrisFindl/parking-app) |
+
+## Currently Building
+
+- Improving a **React Native recipe manager** with Supabase, structured recipe parsing, draft autosave, ingredient aliases, and parser review UI.
+- Building cloud and backend portfolio projects using **AWS, Java/Spring Boot, .NET, React/Next.js, Python, SQL, and Docker**.
+- Practicing application support–adjacent skills through projects that include documentation, troubleshooting notes, reproducible setup, and deployment steps.
