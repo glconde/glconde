@@ -4,6 +4,14 @@
 
 Software Developer | Application Support | SQL / Cloud / Full Stack / React Native
 
+![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-informational)
+![.NET](https://img.shields.io/badge/.NET-Core-informational)
+![Java](https://img.shields.io/badge/Java-Spring_Boot-informational)
+![React](https://img.shields.io/badge/React-Next.js-informational)
+![React Native](https://img.shields.io/badge/React_Native-Expo-informational)
+![Python](https://img.shields.io/badge/Python-Data%20%26%20ETL-informational)
+![SQL](https://img.shields.io/badge/SQL-Reporting%20%26%20Data-informational)
+
 Software developer based in Calgary, Alberta, with experience across application support, SQL reporting, full stack development, mobile development, and operational systems.
 
 My work combines earlier IT and reporting experience with modern software development using AWS, .NET, Java/Spring Boot, React/Next.js, React Native, Python, PHP, SQL, and cloud-based tooling. I focus on practical projects that connect business workflows, data, backend systems, mobile applications, and user-facing web applications.
@@ -32,7 +40,7 @@ This profile highlights selected full stack, cloud, data, mobile, and coursework
 ## Coursework and Labs
 | Project | Stack | What it shows | Link |
 |---|---|---|---|
-| Phishing Email Detection | Python, pandas, NumPy, scikit-learn, SecML | Classified Android applications as benign or malicious using a partial DrebinRed feature set. | [Repo](https://github.com/glconde/itsc320-drebinred) |
+| Phishing Email Detection | Python, pandas, NumPy, scikit-learn, SecML | Classified Android applications as benign or malicious using a partial DrebinRed feature set. | [Repo](https://github.com/glconde/itsc320-phishing) |
 | Android Malware Detection | Python, pandas, NumPy, scikit-learn, SecML | Classified Android applications as benign or malicious using a partial DrebinRed feature set. | [Repo](https://github.com/glconde/itsc320-drebinred) |
 | OS Container Project | MySQL, Docker, PHP | a PHP/MySQL-based Contacts application with Docker, extending functionality across database management, RESTful API endpoints, filesystem operations, and container security | [Repo]( https://github.com/glconde/contacts-app) |
 
