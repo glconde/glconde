@@ -40,7 +40,7 @@ This profile highlights selected full stack, cloud, data, mobile, and coursework
 ## Coursework and Labs
 | Project | Stack | What it shows | Link |
 |---|---|---|---|
-| Phishing Email Detection | Python, pandas, NumPy, scikit-learn, SecML | A machine learning project that classifies emails as phishing or legitimate using Python and scikit-learn. | [Repo](https://github.com/glconde/itsc320-phishing) |
+| Phishing Email Detection | Python, pandas, NumPy, scikit-learn, matplotlib, seaborn, Jupyter Notebook | A machine learning project that classifies emails as phishing or legitimate using Python and scikit-learn. | [Repo](https://github.com/glconde/itsc320-phishing) |
 | Android Malware Detection | Python, pandas, NumPy, scikit-learn, SecML | Classified Android applications as benign or malicious using a partial DrebinRed feature set. | [Repo](https://github.com/glconde/itsc320-drebinred) |
 | OS Container Project | MySQL, Docker, PHP | a PHP/MySQL-based Contacts application with Docker, extending functionality across database management, RESTful API endpoints, filesystem operations, and container security | [Repo]( https://github.com/glconde/contacts-app) |
 
